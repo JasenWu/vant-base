@@ -1,10 +1,9 @@
 {
   "navigationBarTitleText": "银狐咖啡",
    "usingComponents": {
-    "van-checkbox": "../../miniprogram/miniprogram_npm/@vant/weapp/checkbox/index",
-    "van-checkbox-group": "../../miniprogram/miniprogram_npm/@vant/weapp/checkbox-group/index",
-    "van-submit-bar": "../../miniprogram/miniprogram_npm/@vant/weapp/submit-bar/index",
+     
     "van-button": "../../miniprogram/miniprogram_npm/@vant/weapp/button/index",
-    "van-card": "../../miniprogram/miniprogram_npm/@vant/weapp/card/index"
+    "van-tabbar": "../../miniprogram/miniprogram_npm/@vant/weapp/tabbar/index",
+    "van-tabbar-item": "../../miniprogram/miniprogram_npm/@vant/weapp/tabbar-item/index"
   }
 }
