@@ -10,3 +10,16 @@
   color: #ccc;
   font-size: 24rpx;
 }
+.layout-main {
+  display: flex;
+  justify-content: flex-start;
+}
+.layout-left {
+  width: 200rpx;
+  height: 1000rpx;
+  background-color: #ccc;
+}
+.layout-right {
+  width: 550rpx;
+  height: 1000rpx;
+}

@@ -4,6 +4,21 @@
         <view class='title'>宝仔家的咖啡店</view>
         <view class='location'>宝龙城T29楼</view>
     </view>
+	<view class='layout-main'>
+		<view class="layout-left">
+		
+			left
+		</view>
+
+
+			<view class="layout-right">
+		
+			right
+		</view>
+
+	</view>
+
+	
 
 	<van-tabbar active="{{ active }}" bind:change="onChange">
 		<van-tabbar-item icon="home-o">首页</van-tabbar-item>
