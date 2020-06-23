@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "银狐咔啡",
+  "navigationBarTitleText": "取茶",
    "usingComponents": {
     "van-checkbox": "../../miniprogram/miniprogram_npm/@vant/weapp/checkbox/index",
     "van-checkbox-group": "../../miniprogram/miniprogram_npm/@vant/weapp/checkbox-group/index",
